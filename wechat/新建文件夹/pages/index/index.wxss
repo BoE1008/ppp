@@ -1,0 +1,6 @@
+.swiper{
+  width:100%;
+}
+swiper-item .slide-image{
+  width: 100%;
+}
